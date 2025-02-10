@@ -1,10 +1,10 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTMzODI5NTI1NDY4Mzc1MDUzMA.GSAZjA.agddE0HWlfZJjaQEPVdA4-MNtQcblLIA_W5OOs",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://forpop:<db_password>@cluster0.lq7tr.mongodb.net/",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
